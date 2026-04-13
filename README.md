@@ -1,5 +1,8 @@
 # php-ruleset
 
+[![CI](https://github.com/fr3on/php-ruleset/actions/workflows/ci.yml/badge.svg)](https://github.com/fr3on/php-ruleset/actions/workflows/ci.yml)
+[![License](https://img.shields.io/github/license/fr3on/php-ruleset)](https://github.com/fr3on/php-ruleset/blob/main/LICENSE)
+
 A standalone, framework-agnostic PHP 8.4+ expression and business rule evaluator. Secure, fast, and 100% type-safe (PHPStan Level 9).
 
 ## Features
